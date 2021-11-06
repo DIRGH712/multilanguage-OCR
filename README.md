@@ -1,2 +1,2 @@
-# multilanguage-OCR
-Convert PDFs to text using OCR
+# Multilanguage-OCR: Extract text of different language from PDFs.
+
